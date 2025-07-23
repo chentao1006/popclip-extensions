@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>extensionName</key><string>Run Shortcut</string>
+  <key>actions</key>
+  <array>
+    <dict>
+      <key>title</key><string>Shortcut ▶︎</string>
+      <key>icon</key><string>⚡️</string>
+      <key>shell script file</key><string>script.sh</string>
+    </dict>
+  </array>
+</dict>
+</plist>
